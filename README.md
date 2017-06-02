@@ -24,7 +24,6 @@
          ZZZZZZZZZZZ               Z
             ZZZZZ
 
-![stack Overflow](http://lmsotfy.com/so.png)
 
 The friendly Operating System for IoT!
 
