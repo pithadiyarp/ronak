@@ -17,7 +17,6 @@ This section gives how to bring up the Hardware to test Openthread.
  |VDD|J10: Pin2|VDD|
 
 ## Connectors for SPI Interface on NRF52840 Nordic Platform to EVB1000
-[![nRF52840][nordic-img]][dw-repo]
 ![nRF52840](./DW1000/DOC/nordic.png)
 
 ## Connection Details of SPI Interface on NRF52840 Nordic Platform
