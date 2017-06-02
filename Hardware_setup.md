@@ -16,13 +16,14 @@ This section gives how to bring up the Hardware to test Openthread.
  |GND|J6: Pin10|GND|
  |VDD|J10: Pin2|VDD|
 
-## Connectors for SPI Interface on NRF52840 Nordic Platform to EVB1000
-![nRF52840](./DW1000/DOC/nordic.png)
-
 ## Connection Details of SPI Interface on NRF52840 Nordic Platform
+
+![nRF52840](./nordic.png)
+
+## Connection Details of SPI Interface on EVB1000
 
 ![Decawave](./evb1000.png)
 
-## Connecting Nordic Hardware to EVM with SPI Interface
+## Connectors for SPI Interface on NRF52840 Nordic Platform to EVB1000
 
 ![Decawave-Nordic](./evb-nordic.png)
