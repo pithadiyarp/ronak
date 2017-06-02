@@ -64,10 +64,6 @@ package and click download.
 
 There is a shellscript in `riot-dw1000` called `setup.sh` which
 you can use to install all the required packages.
-* To run `setup.sh` give excutable permission to it.
-     ```bash
-     $ sudo chmod 0777 setup.sh
-     ```
 * If you are using this repository for the first time, then dependent packages
   or modules needs to be installed. 
   Use the following command `./setup.sh INITIAL`
