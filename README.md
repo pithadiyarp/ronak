@@ -75,6 +75,11 @@ you can use to install all the required packages.
   to get latest code.
   Use the following command `./setup.sh`
 
+## Hardware setup
+The Hardware setup is explained in [Hardware_setup.md][HS].
+
+[HS]: https://github.com/pithadiyarp/ronak/Hardware_setup.md
+
 
 ### USING THE RTLS ARM Application
 
