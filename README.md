@@ -114,9 +114,9 @@ A0:T0, A0:T1, A0:T2 for all modes. In case of Mode 3, this is observed occasiona
 
   Due to EVB 1000 Hardware constraints with External Microcontroller
 	    
-    * Range Distance Estimation is displayed on PyTerm Terminal
-    * Selection of Mode(Mode-1/2/3/4), UNIT(Tag/Anchor) and UNIT ID (0 to 2) is
-      configured in DecaRange RTLS ARM Application based on User Input
+  * Range Distance Estimation is displayed on PyTerm Terminal
+  * Selection of Mode(Mode-1/2/3/4), UNIT(Tag/Anchor) and UNIT ID (0 to 2) is
+    configured in DecaRange RTLS ARM Application based on User Input
 
 ## DOCUMENTATION
 
