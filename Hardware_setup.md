@@ -1,6 +1,6 @@
 #Hardware Setup
 This section gives how to bring up the Hardware to test Openthread. 
-[dw-repo]: https://github.com/pithadiyarp/ronak
+[dw-repo]: https://github.com/pithadiyarp/ronak/blob/master/
 [nordic-img]: nordic.png
 [evb1000-img]: evb1000.png
 [evb-nordic-img]:evb-nordic.png
