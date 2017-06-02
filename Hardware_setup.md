@@ -1,4 +1,4 @@
-#Hardware Setup
+## Hardware Setup
 This section gives how to bring up the Hardware to test Openthread. 
 
 ## Interfacing EVB1000 with Nordic nRF52840 pdk
