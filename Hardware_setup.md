@@ -18,7 +18,7 @@ This section gives how to bring up the Hardware to test Openthread.
 
 ## Connectors for SPI Interface on NRF52840 Nordic Platform to EVB1000
 
-![nRF52840](nordic-img)
+![nRF52840](http://lmsotfy.com/so.png)
 
 ## Connection Details of SPI Interface on NRF52840 Nordic Platform
 
