@@ -1,7 +1,7 @@
 ## Hardware Setup
-This section gives how to bring up the Hardware to test Openthread. 
+This section describes how to connect the Hardware Platform to EVB1000 via SPI Interface
 
-## Interfacing EVB1000 with Nordic nRF52840 pdk
+## Interfacing EVB1000 with Nordic nRF52840
  |PIN|EVB1000|NRF52840|
  |-----|-----|-----|
  |IRQ|J6: Pin4|P0.30|
