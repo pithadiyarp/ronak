@@ -76,7 +76,7 @@ you can use to install all the required packages.
   Use the following command `./setup.sh`
 
 ## Hardware setup
-The Hardware setup is explained in [Hardware_setup.md][HS].
+The Connection Details of the Hardware setup is explained in [Hardware_setup.md][HS].
 
 [HS]: ./Hardware_setup.md
 
@@ -89,14 +89,14 @@ The Hardware setup is explained in [Hardware_setup.md][HS].
     ```
      * For Nordic - HW_PLATFORM = nrf52dk 
      * For NucleoF401RE - HW_PLATFORM = nucleo-f401
-     * For Example: make -C RIOT/examples/dw1000_rtls_arm BOARD=nrf52dk    
+     * For Example: `make -C RIOT/examples/dw1000_rtls_arm BOARD=nrf52dk`    
 * Command to build and flash
     ```bash
      $ sudo make -C RIOT/examples/dw1000_rtls_arm BOARD=HW_PLATFORM flash
     ```
    * For Nordic - HW_PLATFORM = nrf52dk 
    * For NucleoF401RE - HW_PLATFORM = nucleo-f401
-   * For Example: sudo make -C RIOT/examples/dw1000_rtls_arm BOARD=nrf52dk flash    
+   * For Example: `sudo make -C RIOT/examples/dw1000_rtls_arm BOARD=nrf52dk flash`    
 
 
 #### KNOWN ISSUES
@@ -112,11 +112,11 @@ A0:T0, A0:T1, A0:T2 for all modes. In case of Mode 3, this is observed occasiona
 
 #### Known Limitations
 
-       Due to EVB 1000 Hardware constraints with External Microcontroller
+  Due to EVB 1000 Hardware constraints with External Microcontroller
 	    
-            * Range Distance Estimation is displayed on PyTerm Terminal
-            * Selection of Mode(Mode-1/2/3/4), UNIT(Tag/Anchor) and UNIT ID (0 to 2) is
-              configured in DecaRange RTLS ARM Application based on User Input
+    * Range Distance Estimation is displayed on PyTerm Terminal
+    * Selection of Mode(Mode-1/2/3/4), UNIT(Tag/Anchor) and UNIT ID (0 to 2) is
+      configured in DecaRange RTLS ARM Application based on User Input
 
 ## DOCUMENTATION
 
