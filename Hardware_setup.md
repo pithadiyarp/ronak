@@ -14,12 +14,12 @@ This section describes how to connect the Nordic NRF52840 Hardware Platform to E
 
 ## Connection Details of SPI Interface on NRF52840 Nordic Platform
 
-![nRF52840](./nordic.png)
+![nRF52840](./images/nordic.png)
 
 ## Connection Details of SPI Interface on EVB1000
 
-![Decawave](./evb1000.png)
+![Decawave](./images/evb1000.png)
 
 ## Connectors for SPI Interface on NRF52840 Nordic Platform to EVB1000
 
-![Decawave-Nordic](./evb-nordic.png)
+![Decawave-Nordic](./images/evb-nordic.png)
