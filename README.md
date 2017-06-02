@@ -46,10 +46,10 @@ LGPL code.
 
 ## FEATURES
 
-This repository contains folders to build and work with the BSP for Decawave 
-on RIOT for Nordic NRF52840 and STM32F401RE Nucleo platforms. The BSP 
-package  for Decawave on RIOT serves to provide a software platform for development, deployment and execution of DecaRange RTLS ARM application.
+Added support for BSP for Decawave on RIOT for Nordic NRF52840 and STM32F401RE Nucleo
+platform.
 
+Added support for DecaRange RTLS ARM Application
 
 ## Dependent tools to used for Nordic board
 
