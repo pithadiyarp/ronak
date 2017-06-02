@@ -1,9 +1,5 @@
 #Hardware Setup
 This section gives how to bring up the Hardware to test Openthread. 
-[dw-repo]: https://github.com/pithadiyarp/ronak
-[nordic-img]: DW1000/DOC/nordic.png
-[evb1000-img]: evb1000.png
-[evb-nordic-img]:evb-nordic.png
 
 ## Interfacing EVB1000 with Nordic nRF52840 pdk
  |PIN|EVB1000|NRF52840|
