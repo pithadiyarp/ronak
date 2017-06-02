@@ -78,7 +78,7 @@ you can use to install all the required packages.
 ## Hardware setup
 The Connection Details of the Hardware setup is explained in [Hardware_setup.md][HS].
 
-[HS]: ./DW1000/doc/Hardware_setup.md
+[HS]: ./DW1000/DOC/Hardware_setup.md
 
 
 ### USING THE RTLS ARM Application
