@@ -1,5 +1,5 @@
 ## Hardware Setup
-This section describes how to connect the Hardware Platform to EVB1000 via SPI Interface
+This section describes how to connect the Nordic NRF52840 Hardware Platform to EVB1000 through SPI Interface
 
 ## Interfacing EVB1000 with Nordic nRF52840
  |PIN|EVB1000|NRF52840|
