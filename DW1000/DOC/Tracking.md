@@ -52,5 +52,6 @@ people’s heads which will help avoid interference.
 * Connect the PC to with Anchor0 and open pytrem for log.
 * Power the other 2 Anchors and the Tag using an external USB battery (or other
 method)
+![nRF52840](./images/Tracking.png)
 
 ## Log From A0
