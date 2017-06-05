@@ -13,34 +13,34 @@ For evaluating the tracking use case the system is configured as:
         Enter UNIT ID: 0 t0 2
         0
         ```
-* For A1 : 
- ```bash
-  Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
-  0
-  Select UNIT: 0:TAG 1:ANCHOR
-  1
-  Enter UNIT ID: 0 t0 2
-  1
-  ```
-* For A2 : 
- ```bash
-  Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
-  0
-  Select UNIT: 0:TAG 1:ANCHOR
-  1
-  Enter UNIT ID: 0 t0 2
-  2
-  ```
+    * For A1 : 
+     ```bash
+      Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
+      0
+      Select UNIT: 0:TAG 1:ANCHOR
+      1
+      Enter UNIT ID: 0 t0 2
+      1
+      ```
+    * For A2 : 
+     ```bash
+      Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
+      0
+      Select UNIT: 0:TAG 1:ANCHOR
+      1
+      Enter UNIT ID: 0 t0 2
+      2
+      ```
 * The Tag are configured using user-interface provide in `dw1000_rtls_arm` example as shown below.
-* For T0 : 
- ```bash
- Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
- 0
- Select UNIT: 0:TAG 1:ANCHOR
- 0
- Enter UNIT ID: 0 t0 2
- 0
-```
+    * For T0 : 
+     ```bash
+      Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
+      0
+      Select UNIT: 0:TAG 1:ANCHOR
+      0
+      Enter UNIT ID: 0 t0 2
+      0
+     ```
 ## Arrangement
 * Mount the 3 Anchors at the same height
   Note: Differences in heights will result in reduced accuracy of location
