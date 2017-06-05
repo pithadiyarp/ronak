@@ -8,7 +8,7 @@
     * To configure the device as Anchor 0 with Mode 0 :
         ```bash
         Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
-        ** 0 **
+        ``` 0 ```
         Select UNIT: 0:TAG 1:ANCHOR
         1
         Enter UNIT ID: 0 t0 2
