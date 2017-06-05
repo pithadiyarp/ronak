@@ -102,7 +102,7 @@ The Connection Details of the Hardware setup is explained in [Hardware_setup.md]
 2) Navigation:
      * The navigation use-case is explained in [Navigation.md][Navigation].
 
-       [Navigation]: ./DW1000/DOC/Tracking.md
+       [Navigation]: ./DW1000/DOC/Navigation.md
 3) Geo-Fencing :
      * The geo-fencing use-case is explained in [Geo-Fencing.md][Geo-Fencing].
 
