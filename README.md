@@ -84,6 +84,7 @@ The Connection Details of the Hardware setup is explained in [Hardware_setup.md]
     ```
    * Running DecaRange RTLS ARM Application for STM32 Nucleo F401RE Platform
       - Modify the setenv.sh as “$DW_HW_PLATFORM = nucleo-f401”
+      - To build the DecaRange RTLS ARM application run the script – `./build_setup.sh` 
 
 ## USE-CASES OF THE RTLS ARM Application
 1) Tracking:
