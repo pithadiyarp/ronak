@@ -6,12 +6,12 @@ For evaluating the tracking use case the system is configured as:
 * The Anchors are configured using user-interface provide in `dw1000_rtls_arm` example as shown below.
 * For A0 :
  ```bash
-   	Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
-	0
-	Select UNIT: 0:TAG 1:ANCHOR
-	1
-	Enter UNIT ID: 0 t0 2
-	0
+  Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
+  0
+  Select UNIT: 0:TAG 1:ANCHOR
+  1
+  Enter UNIT ID: 0 t0 2
+  0
   ```
 * For A1 : 
 	Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
