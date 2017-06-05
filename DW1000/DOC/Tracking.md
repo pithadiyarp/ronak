@@ -1,3 +1,4 @@
+## Tracking Use-case
 * For evaluating the tracking use case the system is configured as:
    * 3 Anchors
    * 1 Tag
@@ -53,6 +54,5 @@ people’s heads which will help avoid interference.
 * Power the other 2 Anchors and the Tag using an external USB battery (or other
 method)
 ![Tracking](./images/Tracking.PNG)
-
 ## Log From A0
 ![Tracking Log](./images/Tracking_log.png)
