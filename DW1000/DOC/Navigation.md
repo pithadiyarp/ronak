@@ -51,11 +51,10 @@ people’s heads which will help avoid interference.
 * Mount the 3 Anchors to create a triangle
 * Ensure the antennas are >15 cm away from the nearest wall or any other objects
 * Connect the PC to the Tag 
-open a new terminal and input
+        open a new terminal and input
  - “cd riot-dw1000/RIOT/dist/tools/pyterm”
  - “sudo ./pyterm -p /dev/ttyACM0”
-* Power the other 2 Anchors and the Tag using an external USB battery (or other
-method)
+* Power the other 3 Anchors 
 ![Navigation](./images/Navigation.PNG)
 ## Log From A0
 ![Navigation Log](./images/Navigatio.png)
