@@ -14,7 +14,7 @@
         Enter UNIT ID: 0 t0 2
         0
         ```
-    * For A1 : 
+    * To configure the device as Anchor 1 with Mode 0: 
       ```bash
       Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
       0
@@ -23,17 +23,17 @@
       Enter UNIT ID: 0 t0 2
       1
       ```
-    * For A2 : 
+    * To configure the device as Anchor 0 with Mode 0 : 
       ```bash
       Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
-      0
+      $ 0
       Select UNIT: 0:TAG 1:ANCHOR
-      1
+      $ 1
       Enter UNIT ID: 0 t0 2
-      2
+      $ 2
       ```
 * The Tag are configured using user-interface provide in `dw1000_rtls_arm` example as shown below.
-    * For T0 : 
+    * To configure the device as Tag 0 with Mode 0 : 
        ```bash
        Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
        0
