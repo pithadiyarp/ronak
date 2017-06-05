@@ -95,10 +95,18 @@ The Connection Details of the Hardware setup is explained in [Hardware_setup.md]
 
 ### USE-CASES OF THE RTLS ARM Application
 1) Tracking:
-The tracking use-case is explained in [Tracking.md][Tracking].
+     * The tracking use-case is explained in [Tracking.md][Tracking].
 
-[Tracking]: ./DW1000/DOC/Tracking.md
+       [Tracking]: ./DW1000/DOC/Tracking.md
 
+2) Navigation:
+     * The navigation use-case is explained in [Navigation.md][Navigation].
+
+       [Navigation]: ./DW1000/DOC/Tracking.md
+3) Geo-Fencing :
+     * The geo-fencing use-case is explained in [Geo-Fencing.md][Geo-Fencing].
+
+       [Geo-Fencing]: ./DW1000/DOC/Geo-Fencing.md
 #### KNOWN ISSUES
 
 * Tracking Use case
