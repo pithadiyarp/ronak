@@ -26,7 +26,7 @@
     * To configure the device as Anchor 0 with Mode 0 : 
       ```bash
       Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
-      *0
+      0
       Select UNIT: 0:TAG 1:ANCHOR
       $ 1
       Enter UNIT ID: 0 t0 2
@@ -50,7 +50,9 @@ obstructions between them e.g. mounting 2-3 m high would ensure they are above
 people’s heads which will help avoid interference.
 * Mount the 3 Anchors to create a triangle
 * Ensure the antennas are >15 cm away from the nearest wall or any other objects
-* Connect the PC to the Tag
+* Connect the PC to the Tag 
+  open a new terminal and input – “cd riot-dw1000/RIOT/dist/tools/pyterm”
+  - “sudo ./pyterm -p /dev/ttyACM0”
 * Power the other 2 Anchors and the Tag using an external USB battery (or other
 method)
 ![Navigation](./images/Navigation.PNG)
