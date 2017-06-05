@@ -55,4 +55,4 @@ people’s heads which will help avoid interference.
 method)
 ![Navigation](./images/Navigation.PNG)
 ## Log From A0
-![Navigation Log](./images/Navigatio_log.png)
+![Navigation Log](./images/Navigatio.png)
