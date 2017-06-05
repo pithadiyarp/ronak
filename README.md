@@ -95,7 +95,6 @@ The Connection Details of the Hardware setup is explained in [Hardware_setup.md]
      * The tracking use-case is explained in [Tracking.md][Tracking].
 
        [Tracking]: ./DW1000/DOC/Tracking.md
-
 2) Navigation:
      * The navigation use-case is explained in [Navigation.md][Navigation].
 
