@@ -1,6 +1,6 @@
-** For evaluating the tracking use case the system is configured as:
- * 3 Anchors
- * 1 Tag
+For evaluating the tracking use case the system is configured as:
+  * 3 Anchors
+  * 1 Tag
 
 ## Arrangement
 * Mount the 3 Anchors at the same height
