@@ -53,6 +53,6 @@ people’s heads which will help avoid interference.
 * Connect the PC to the Tag
 * Power the other 2 Anchors and the Tag using an external USB battery (or other
 method)
-![Navigation](./images/Tracking.PNG)
+![Navigation](./images/Navigation.PNG)
 ## Log From A0
-![Navigation Log](./images/Tracking_log.png)
+![Navigation Log](./images/Navigatio_log.png)
