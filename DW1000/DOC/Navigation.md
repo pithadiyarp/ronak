@@ -4,7 +4,7 @@
    * 1 Tag
   
 * Flash the four NRF52840 Nordic platforms with `dw1000_rtls_arm` application as mentioned in README.md. 
-* For `dw1000_rtls_arm` example, the configuration of the Anchor/Tag will be done using user Inputs as shown below.
+* For `dw1000_rtls_arm` example, the configuration of the Anchor/Tag will be done using user input terminal as shown below.
     * To configure the device as Anchor 0 with Mode 0 :
         ```bash
         Select Mode Configuration:  0:Mode-0 1:Mode-1 2:Mode-2 3:Mode-3
