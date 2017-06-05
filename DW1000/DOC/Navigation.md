@@ -52,8 +52,8 @@ people’s heads which will help avoid interference.
 * Ensure the antennas are >15 cm away from the nearest wall or any other objects
 * Connect the PC to the Tag 
 * open a new terminal and input
-      * “cd riot-dw1000/RIOT/dist/tools/pyterm”
-      * “sudo ./pyterm -p /dev/ttyACM0”
+    * `cd riot-dw1000/RIOT/dist/tools/pyterm`
+    * `sudo ./pyterm -p /dev/ttyACM0`
 * Power the other 3 Anchors 
 ![Navigation](./images/Navigation.PNG)
 ## Log From A0
