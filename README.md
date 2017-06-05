@@ -62,15 +62,10 @@ package and click download.
 
 ## GETTING STARTED
 
-There is a shellscript in `riot-dw1000` called `setup.sh` which
+There is a shellscript in `riot-dw1000` called `build_setup.sh` which
 you can use to install all the required packages.
-* If you are using this repository for the first time, then dependent packages
-  or modules needs to be installed. 
-  Use the following command `./setup.sh INITIAL`
-* If you do not wish to install the dependent packages or modules and still want
-  to get latest code.
-  Use the following command `./setup.sh`
-
+*  To initialize the Environment Variables, installing Dependent Libraries (First time), setup(clone the RIOT repo and sym link creation for dw1000) and building the application
+   * Inside the cloned repo,run the script – `./build_setup.sh INITIAL`
 ## Hardware setup
 The Connection Details of the Hardware setup is explained in [Hardware_setup.md][HS].
 
