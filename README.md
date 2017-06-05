@@ -93,7 +93,7 @@ The Connection Details of the Hardware setup is explained in [Hardware_setup.md]
    * For NucleoF401RE - HW_PLATFORM = nucleo-f401
    * For Example: `sudo make -C RIOT/examples/dw1000_rtls_arm BOARD=nrf52dk flash`    
 
-### USE-CASES OF THE RTLS ARM Application
+## USE-CASES OF THE RTLS ARM Application
 1) Tracking:
      * The tracking use-case is explained in [Tracking.md][Tracking].
 
@@ -107,7 +107,7 @@ The Connection Details of the Hardware setup is explained in [Hardware_setup.md]
      * The geo-fencing use-case is explained in [Geo-Fencing.md][Geo-Fencing].
 
        [Geo-Fencing]: ./DW1000/DOC/Geo-Fencing.md
-#### KNOWN ISSUES
+## KNOWN ISSUES
 
 * Tracking Use case
 Observed Anchor to anchor bias corrected range(ma), Tag to anchor bias
@@ -118,7 +118,7 @@ Observed that T0 to A0, A1, A2 Range info is detected as 0 randomly
 Log Pattern is not proper as expected: A0:T0, A0:T1, A0:T0 & A0:T2 instead of
 A0:T0, A0:T1, A0:T2 for all modes. In case of Mode 3, this is observed occasionally
 
-#### Known Limitations
+## Known Limitations
 
   Due to EVB 1000 Hardware constraints with External Microcontroller
 	    
