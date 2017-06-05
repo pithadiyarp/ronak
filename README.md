@@ -93,6 +93,10 @@ The Connection Details of the Hardware setup is explained in [Hardware_setup.md]
    * For NucleoF401RE - HW_PLATFORM = nucleo-f401
    * For Example: `sudo make -C RIOT/examples/dw1000_rtls_arm BOARD=nrf52dk flash`    
 
+### USE-CASES OF THE RTLS ARM Application
+1) Tracking:
+The tracking use-case is explained in [Tracking.md][Tracking].
+[HS]: ./DW1000/DOC/Tracking.md
 
 #### KNOWN ISSUES
 
