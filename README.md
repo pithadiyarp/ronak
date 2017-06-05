@@ -65,7 +65,11 @@ package and click download.
 There is a shellscript in `riot-dw1000` called `build_setup.sh` which
 you can use to install all the required packages.
 *  To initialize the Environment Variables, installing Dependent Libraries (First time), setup(clone the RIOT repo and sym link creation for dw1000) and building the application
-   * Inside the cloned repo,run the script – `./build_setup.sh INITIAL`
+    * Inside the cloned repo,run the script – `./build_setup.sh INITIAL`
+*  To initialize the Environment Variables, setup(clone the RIOT repo and sym link creation for dw1000) and building the application(Next Time on Wards)
+    * Inside the cloned repo,run the script – `./build_setup.sh Update`
+*  To build the DecaRange RTLS ARM application
+    * Inside the cloned repo run the script – `./build_setup.sh`
 ## Hardware setup
 The Connection Details of the Hardware setup is explained in [Hardware_setup.md][HS].
 
