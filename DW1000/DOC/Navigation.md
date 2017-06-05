@@ -61,4 +61,4 @@ people’s heads which will help avoid interference.
 * Format of ranging results on pyterm.
 * The application outputs ranging and some debug information on pyterm. 
 * Below Figure shows the example output from Tag 0 as viewed on pyterm.
-![Navigation Log](./images/Navigatio.png)
+![Navigation Log](./images/Navigation_log.png)
