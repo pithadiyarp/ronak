@@ -73,25 +73,17 @@ you can use to install all the required packages.
 ## Hardware setup
 The Connection Details of the Hardware setup is explained in [Hardware_setup.md][HS].
 
-[HS]: ./DW1000/DOC/Hardware_setup.md
+[HS]: ./DW1000/doc/Hardware_setup.md
 
 
 ### USING THE RTLS ARM Application
-
-* Command to build
+* Command to flash
+   * Running DecaRange RTLS ARM Application for Nordic nrf52840 Platform
     ```bash
-     $ make -C RIOT/examples/dw1000_rtls_arm BOARD=HW_PLATFORM
+     $ sudo make -C $RIOT_ROOT/examples/dw1000_rtls_arm/ BOARD=$DW_HW_PLATFORM flash
     ```
-     * For Nordic - HW_PLATFORM = nrf52dk 
-     * For NucleoF401RE - HW_PLATFORM = nucleo-f401
-     * For Example: `make -C RIOT/examples/dw1000_rtls_arm BOARD=nrf52dk`    
-* Command to build and flash
-    ```bash
-     $ sudo make -C RIOT/examples/dw1000_rtls_arm BOARD=HW_PLATFORM flash
-    ```
-   * For Nordic - HW_PLATFORM = nrf52dk 
-   * For NucleoF401RE - HW_PLATFORM = nucleo-f401
-   * For Example: `sudo make -C RIOT/examples/dw1000_rtls_arm BOARD=nrf52dk flash`    
+   * Running DecaRange RTLS ARM Application for STM32 Nucleo F401RE Platform
+      - Modify the setenv.sh as “$DW_HW_PLATFORM = nucleo-f401”
 
 ## USE-CASES OF THE RTLS ARM Application
 1) Tracking:
