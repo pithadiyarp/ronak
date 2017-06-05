@@ -1,6 +1,6 @@
-For evaluating the tracking use case the system is configured as:
-  * 3 Anchors
-  * 1 Tag
+* For evaluating the tracking use case the system is configured as:
+   * 3 Anchors
+   * 1 Tag
   
 * Flash the four NRF52840 Nordic platforms with `dw1000_rtls_arm` application as mention in README.md. 
 * The Anchors are configured using user-interface provide in `dw1000_rtls_arm` example as shown below.
