@@ -60,4 +60,3 @@ people’s heads which will help avoid interference.
 * The application outputs ranging and some debug information on pyterm. 
 * Below Figure shows the example output from Anchor 0 as viewed on pyterm.
 ![Navigation Log](./images/Geo-Fencing_log.png)
-
