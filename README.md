@@ -80,7 +80,7 @@ The Connection Details of the Hardware setup is explained in [Hardware_setup.md]
      ```bash
      $ sudo make -C $RIOT_ROOT/examples/dw1000_rtls_arm/ BOARD=$DW_HW_PLATFORM flash
     ```
-### Running The DecaRange RTLS ARM Application on STM32 Nucleo F401RE Platform
+### Running the DecaRange RTLS ARM Application on STM32 Nucleo F401RE Platform
    * To Build 
       - Modify the setenv.sh as `$DW_HW_PLATFORM = nucleo-f401`
       - To build the DecaRange RTLS ARM application run the script – `source ./build_setup.sh`
@@ -90,15 +90,15 @@ The Connection Details of the Hardware setup is explained in [Hardware_setup.md]
        ```
 
 ## To Test DecaRange RTLS ARM Application Usecases
-1) Tracking Usecase
+1) Tracking Usecase:
      * The Tracking use-case is explained in [Tracking.md][Tracking].
 
        [Tracking]: ./DW1000/DOC/Tracking.md
-2) Navigation:
+2) Navigation Usecase:
      * The Navigation use-case is explained in [Navigation.md][Navigation].
 
        [Navigation]: ./DW1000/DOC/Navigation.md
-3) Geo-Fencing :
+3) Geo-Fencing Usecase:
      * The Geo-fencing use-case is explained in [Geo-Fencing.md][Geo-Fencing].
 
        [Geo-Fencing]: ./DW1000/DOC/Geo-Fencing.md
