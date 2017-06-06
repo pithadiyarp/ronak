@@ -56,8 +56,7 @@ people’s heads which will help avoid interference.
     * `sudo ./pyterm -p /dev/ttyACM0`
 * Power the other 3 Anchors 
 ![Navigation](./images/Navigation.PNG)
-## Log From Tag0
-* Format of ranging results on pyterm.
-* The application outputs ranging and some debug information on pyterm. 
-* Below Figure shows the example output from Tag 0 as viewed on pyterm.
+## Format of ranging results on pyterm - Tag0
+The application outputs ranging and some debug information on pyterm. Below Figure shows the example output from Tag 0 as viewed on pyterm.
+
 ![Navigation Log](./images/Navigation_log.png)
