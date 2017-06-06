@@ -62,29 +62,29 @@ package and click download.
 
 ## GETTING STARTED
 
-There is a shellscript in `riot-dw1000` called `build_setup.sh` which
-you can use to install all the required packages.
+#Installing Tool chain and Building DecaRange RTLS ARM Application for Nordic NRF52840 Platform
 *  To initialize the Environment Variables, installing Dependent Libraries (First time), setup(clone the RIOT repo and sym link creation for dw1000) and building the application
-    * Inside the cloned repo,run the script – `./build_setup.sh INITIAL`
+    * Inside the cloned repo,run the script – `source ./build_setup.sh INITIAL`
 *  To initialize the Environment Variables, setup(clone the RIOT repo and sym link creation for dw1000) and building the application(Next Time on Wards)
-    * Inside the cloned repo,run the script – `./build_setup.sh Update`
+    * Inside the cloned repo,run the script – `source ./build_setup.sh Update`
 *  To build the DecaRange RTLS ARM application
-    * Inside the cloned repo run the script – `./build_setup.sh`
+    * Inside the cloned repo run the script – `source ./build_setup.sh`
 ## Hardware setup
 The Connection Details of the Hardware setup is explained in [Hardware_setup.md][HS].
 
 [HS]: ./DW1000/DOC/Hardware_setup.md
 
 
-### USING THE RTLS ARM Application
+### Running THE RTLS ARM Application on Nordic NRF52840 Platform
 * Command to flash
    * Running DecaRange RTLS ARM Application for Nordic nrf52840 Platform
     ```bash
      $ sudo make -C $RIOT_ROOT/examples/dw1000_rtls_arm/ BOARD=$DW_HW_PLATFORM flash
     ```
+### Running THE RTLS ARM Application on STM32 Nucleo F401RE Platform
    * Running DecaRange RTLS ARM Application for STM32 Nucleo F401RE Platform
       - Modify the setenv.sh as `$DW_HW_PLATFORM = nucleo-f401`
-      - To build the DecaRange RTLS ARM application run the script – `./build_setup.sh`
+      - To build the DecaRange RTLS ARM application run the script – `source ./build_setup.sh`
       - To flash –
        ```bash
        sudo make -C $RIOT_ROOT/examples/dw1000_rtls_arm/ BOARD=$DW_HW_PLATFORM flash”
