@@ -62,11 +62,11 @@ package and click download.
 
 ## GETTING STARTED
 
-#Installing Tool chain and Building DecaRange RTLS ARM Application for Nordic NRF52840 Platform
+## Installing Tool chain and Building DecaRange RTLS ARM Application for Nordic NRF52840 Platform
 *  To initialize the Environment Variables, installing Dependent Libraries (First time), setup(clone the RIOT repo and sym link creation for dw1000) and building the application
     * Inside the cloned repo,run the script – `source ./build_setup.sh INITIAL`
 *  To initialize the Environment Variables, setup(clone the RIOT repo and sym link creation for dw1000) and building the application(Next Time on Wards)
-    * Inside the cloned repo,run the script – `source ./build_setup.sh Update`
+    * Inside the cloned repo,run the script – `source ./build_setup.sh UPDATE`
 *  To build the DecaRange RTLS ARM application
     * Inside the cloned repo run the script – `source ./build_setup.sh`
 ## Hardware setup
