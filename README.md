@@ -75,32 +75,31 @@ The Connection Details of the Hardware setup is explained in [Hardware_setup.md]
 [HS]: ./DW1000/DOC/Hardware_setup.md
 
 
-### Running THE RTLS ARM Application on Nordic NRF52840 Platform
-* Command to flash
-   * Running DecaRange RTLS ARM Application for Nordic nrf52840 Platform
-    ```bash
+### Running the DecaRange RTLS ARM Application on Nordic NRF52840 Platform
+* To flash
+     ```bash
      $ sudo make -C $RIOT_ROOT/examples/dw1000_rtls_arm/ BOARD=$DW_HW_PLATFORM flash
     ```
-### Running THE RTLS ARM Application on STM32 Nucleo F401RE Platform
-   * Running DecaRange RTLS ARM Application for STM32 Nucleo F401RE Platform
+### Running The DecaRange RTLS ARM Application on STM32 Nucleo F401RE Platform
+   * To Build 
       - Modify the setenv.sh as `$DW_HW_PLATFORM = nucleo-f401`
       - To build the DecaRange RTLS ARM application run the script – `source ./build_setup.sh`
-      - To flash –
+   * To Flash
        ```bash
        sudo make -C $RIOT_ROOT/examples/dw1000_rtls_arm/ BOARD=$DW_HW_PLATFORM flash”
        ```
 
-## USE-CASES OF THE RTLS ARM Application
-1) Tracking:
-     * The tracking use-case is explained in [Tracking.md][Tracking].
+## To Test DecaRange RTLS ARM Application Usecases
+1) Tracking Usecase
+     * The Tracking use-case is explained in [Tracking.md][Tracking].
 
        [Tracking]: ./DW1000/DOC/Tracking.md
 2) Navigation:
-     * The navigation use-case is explained in [Navigation.md][Navigation].
+     * The Navigation use-case is explained in [Navigation.md][Navigation].
 
        [Navigation]: ./DW1000/DOC/Navigation.md
 3) Geo-Fencing :
-     * The geo-fencing use-case is explained in [Geo-Fencing.md][Geo-Fencing].
+     * The Geo-fencing use-case is explained in [Geo-Fencing.md][Geo-Fencing].
 
        [Geo-Fencing]: ./DW1000/DOC/Geo-Fencing.md
 ## KNOWN ISSUES
