@@ -51,7 +51,7 @@ people’s heads which will help avoid interference.
 * Ensure the antennas are >15 cm away from the nearest wall or any other objects
 * Connect the PC to the Anchor 0 
 * open a new terminal for pyterm and input
-    * `cd riot-dw1000/RIOT/dist/tools/pyterm`
+    * `cd $RIOT_ROOT/dist/tools/pyterm`
     * `sudo ./pyterm -p /dev/ttyACM0`
 * Power the other 3 Tags 
 ![Geo-Fencing](./images/Geo-Fencing.PNG)
