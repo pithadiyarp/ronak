@@ -54,9 +54,9 @@ people’s heads which will help avoid interference.
     * `cd riot-dw1000/RIOT/dist/tools/pyterm`
     * `sudo ./pyterm -p /dev/ttyACM0`
 * Power the other 3 Tags 
-![Navigation](./images/Geo-Fencing.PNG)
+![Geo-Fencing](./images/Geo-Fencing.PNG)
 ## Log From Anchor0
 * Format of ranging results on pyterm.
 * The application outputs ranging and some debug information on pyterm. 
 * Below Figure shows the example output from Anchor 0 as viewed on pyterm.
-![Navigation Log](./images/Geo-Fencing_log.png)
+![Geo-Fencing Log](./images/Geo-Fencing_log.png)
