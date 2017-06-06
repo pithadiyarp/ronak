@@ -56,7 +56,7 @@ people’s heads which will help avoid interference.
 * Power the other 2 Anchors and the Tag using an external USB battery (or other
 method)
 ![Tracking](./images/Tracking.PNG)
-## Format of ranging results on pyterm
+## Format of ranging results on pyterm - Anchor 0
 The application outputs ranging and some debug information on pyterm. Below Figure shows the example output from Anchor 0 as viewed on pyterm.
 
 ![Tracking Log](./images/Tracking_log.png)
