@@ -55,8 +55,7 @@ people’s heads which will help avoid interference.
     * `sudo ./pyterm -p /dev/ttyACM0`
 * Power the other 3 Tags 
 ![Geo-Fencing](./images/Geo-Fencing.PNG)
-## Log From Anchor0
-* Format of ranging results on pyterm.
-* The application outputs ranging and some debug information on pyterm. 
-* Below Figure shows the example output from Anchor 0 as viewed on pyterm.
+## Format of ranging results on pyterm - Anchor 0
+The application outputs ranging and some debug information on pyterm. Below Figure shows the example output from Anchor 0 as viewed on pyterm.
+
 ![Geo-Fencing Log](./images/Geo-Fencing_log.png)
