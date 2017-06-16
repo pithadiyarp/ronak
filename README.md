@@ -72,7 +72,7 @@ package and click download.
 ## Hardware setup
 The Connection Details of the Hardware setup is explained in [Hardware_setup.md][HS].
 
-[HS]: ./DW1000/doc/Hardware_setup.md
+[HS]: ./DW1000/DOC/Hardware_setup.md
 
 
 ### Running the DecaRange RTLS ARM Application on Nordic NRF52840 Platform
@@ -93,15 +93,15 @@ The Connection Details of the Hardware setup is explained in [Hardware_setup.md]
 1) Tracking Usecase:
      * The Tracking use-case is explained in [Tracking.md][Tracking].
 
-       [Tracking]: ./DW1000/doc/Tracking.md
+       [Tracking]: ./DW1000/DOC/Tracking.md
 2) Navigation Usecase:
      * The Navigation use-case is explained in [Navigation.md][Navigation].
 
-       [Navigation]: ./DW1000/doc/Navigation.md
+       [Navigation]: ./DW1000/DOC/Navigation.md
 3) Geo-Fencing Usecase:
      * The Geo-fencing use-case is explained in [Geo-Fencing.md][Geo-Fencing].
 
-       [Geo-Fencing]: ./DW1000/doc/Geo-Fencing.md
+       [Geo-Fencing]: ./DW1000/DOC/Geo-Fencing.md
 ## KNOWN ISSUES
 
 * Tracking Use case
